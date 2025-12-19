@@ -1,4 +1,4 @@
-const BACKEND_URL = 'https://myapp-backend.vercel.app';  // Replace with your backend URL
+const BACKEND_URL = 'https://vercel-test-backend-black.vercel.app/';  // Replace with your backend URL
 
 async function testBackend() {
   try {
